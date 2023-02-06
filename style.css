@@ -7,7 +7,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #C5DA99 url(/images/img01.jpg) repeat;
+	background: #C5DA99 url(/images/doodle.jpg) repeat;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #787878;
@@ -85,7 +85,7 @@ a:hover {
 	height: 100px;
 	margin: 0 auto;
 	padding: 0px 50px;
-	background: #415C13 url(/images/img02.jpg) repeat;
+	background: #fff;
 }
 
 /* Logo */
